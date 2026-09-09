@@ -1,0 +1,84 @@
+DOTNET 
+
+What is Dotnet?
+-> Dotnet is a technology, it makes work easy.
+-> With the help of dotnet we can create any kind of applications such as Web, Windows, Mobile and Console
+-> Dotnet is language neutral (knows more than 1 language).
+-> Dotnet supports 62+languages.
+-> Dotnet provides language interoperability i.e c# -> f#
+-> Dotnet owns c#,f#,j#,c++, vb.net rest all are third party languages.
+All kinds of applications:
+windows(aspclassic)
+Mobile(j2me)
+web(forms)
+console(console)
+
+What is Dotnet Framework?
+-> It is one of the platform provided by the Microsoft to create any king of application using windows.
+
+Why Dotnet?
+We use dotnet because of it's feature namely CLR (Common Language Runtime)
+Soure code -> Complier -> Assembly language 001100 -> CLR (takes binary code and convert to user language ex: c#, c++) -> Windows OS language
+
+CLR Contains:
+1. JIT: Just in time - converts assembly language into windows os language
+2. Garbage collection: It is the process used to maintain various aspects of memory to prevent memory leaks during program execution.
+3 generations of garbage collection:
+gen 0: stores short-lived objects 
+gen 1: objects from gen 0 live here
+gen 2: stores long-live and gen 1 objects
+Garbage collection deallocates the unused memory
+Ex: string s="HELLO" (01234) -> 10 (deallocates 5)
+3. Memory manager - Manages memory
+4. Exception handler - handles the exception
+
+SQL - It is structured query language. It is not case-sensitive. It is used as a database for backend.
+Database - It is a collection of structured data.
+RDBMS - It is a relational database management system
+It uses the concept of tables
+Tables contains rows(fields) and column(attributes)
+
+Full Stack combine:
+Frontend, Designing, backend
+
+What is Authentication?
+Authentication means checking the genuinity of the user.
+
+What is Authorization?
+Authorization means defining the roles such as admin, user, guests etc
+
+Candidate key: The attribute through which we can find out a row uniquely is called candidate key.
+-> We can have 'n' number of candidate keys in a table.
+-> It allows null as well as duplicate values.
+
+Composite candidate key:
+-> It is nothing but a candidate key, it is the combination of one or more columns
+-> We can have n number of composite candidate keys in a table
+-> It allows null as well as duplicate values.
+
+Primary key:
+-> It is nothing but a candidate key, the attribute through which we can find out a row uniquely.
+-> We can have only one primary key in a table.
+-> It does not allows null as well as duplicate values.
+
+Composite primary key:
+-> It is the combination of one or more columns.
+-> We can have only one composite primary key in a table
+-> It doesn't allow null as well as duplicate values
+
+Unique key:
+-> The attribute through which we can find out a row uniquely is called unique key.
+-> It allows only one null value.
+-> It doesn't allow duplicate values.
+
+Foreign key:
+-> Foreign key is the primary key of its master table.
+-> We can have n number of foreign keys in a table
+-> Foreign key allows null as well as duplicate values
+
+Constraints/Properties of foreign key:
+1. No action - if child data exists, it will not allow to delete the parent data.
+2. Set null - if parent data gets deleted, then child data is set to null.
+3. Set default - if parent data gets deleted, then child data is assigned a default value.
+4. Cascade on delete - If parent data gets deleted, then child data will also get deleted
+
