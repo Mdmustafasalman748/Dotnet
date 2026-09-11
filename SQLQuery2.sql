@@ -43,3 +43,79 @@ and less than 10 years then intermediate and if experience is greater than 10 ye
 select empname, case when datediff(YY,Hiredate,Getdate()) < 5 then 'Beginner'
 when datediff(YY, Hiredate, Getdate()) > 5 and datediff(YY, Hiredate, Getdate()) < 10 then 'Intermediate'
 when datediff(YY, Hiredate, Getdate()) > 10 then 'Expert' end as Eligibility from tbl_emp
+
+/*Joins - Join caluse is used to combine rows from two or more tables, based on a related column between them
+Left outer join - Complete data from left table and matching data from right table
+Right outer join - Complete data from right table and matching data from left table
+Cross Join - It is used to combine each row of one table with each row of another table, and return the cartesion product
+of the sets of rows from the tables that are joined 
+Full outer join - complete data from both the tables
+Inner Join - Matching data from both the tables*/
+
+/*Write a query to get employee name, salary and department name of an organization*/
+select empname, sal, depname from tbl_emp as E inner join tbl_dept as D on E.depid=D.depid
+
+/*Write a query to get depname, dephod, emp salary and empname of an organization*/
+select depname, dephod, empname, sal from tbl_dept as D inner join tbl_emp as E on D.depid=E.depid
+
+select E.empname, E.sal, D.depname, D.dephod from tbl_emp as E inner join tbl_dept as D on E.depid=D.depid
+
+/*Write a query to get employee name, sum of salary, department name of male employees and whose sum of salary
+should be greater than 50,0000. Arrange them in descending order.*/
+select empname, sum(sal) as SOS, depname from tbl_emp as E inner join tbl_dept as D on E.depid=D.depid 
+where empgender='m'
+groupby empname, depname
+having sum(sal) > 50000
+order by desc
+
+/*Normalization - Breaking the table into multiple tables is called normalizatin*/
+/*Store procedure - It will complie the code once and will execute the code 'n' number of times
+To read data: 
+--complie
+*/
+create sp_getdeptdetails
+as 
+select * from tbl_dept
+
+--execute
+exec sp_getdeptdetails
+
+--To insert data
+insert proc sp_insertdeptdetails
+as 
+insert into tbl_dept
+values ('Test','Smith')
+exec sp_insertdeptdeatails
+
+--Taking input from user
+create proc sp_insertdeptdetails-VI
+@Depname varchar(100), @Dephod varchar(100)
+exec sp_insertdeptdetails_VI 'Test1','Smith1'
+
+--To begin transaction
+begin trans
+exec sp_updateddeptdetails-VI 'Test1','Smith1'
+--commit -> It will effect the database
+--rollback -> It will revoke the transaction
+--alter -> It will change the existing data,in other words update
+-- delete -> It will delete the data but will not delete the memory
+-- Truncate -> It will delete the table and recreate it
+-- drop -> It will permanently delete the table 
+
+--View in SQL
+--View is a virtual table based on the result-set (output) of an SQL statement 
+
+create view department as 
+select depname, dephod from tbl_dept
+
+create view vw_getdeptdetails
+as 
+select * from tbl_dept
+
+select * from vw_getdeptdetails
+
+create view as_getcolumnsfromtwotables
+asa
+select depname, salary from tbl_emp as e join tbl_dept as d on e.tbl_depid=d.depid 
+
+select * from sp_getcolumnsfrom twotables
