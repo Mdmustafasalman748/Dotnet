@@ -12,13 +12,18 @@ namespace Conditional_Statements
         {
             int a = 20;
             int b = 30;
+            int c = 40;
             if (a > b)
             {
                 Console.WriteLine("A is Greater than B");
             }
-            else
+            else if (b > c)
             {
                 Console.WriteLine("B is Greater than A");
+            }
+            else
+            {
+                Console.WriteLine("C is Greater than A");
             }
             Console.ReadLine();
         }
