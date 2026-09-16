@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.exe
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.exe
+C:\Personal learning\SQL\Dotnet\Conditional_Statements\Conditional_Statements\obj\Debug\Conditional_Statements.pdb
