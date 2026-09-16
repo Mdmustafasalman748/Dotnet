@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\bin\Debug\For_loop.exe.config
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\bin\Debug\For_loop.exe
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\bin\Debug\For_loop.pdb
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\obj\Debug\For_loop.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\obj\Debug\For_loop.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\obj\Debug\For_loop.exe
+C:\Personal learning\SQL\Dotnet\For_loop\For_loop\obj\Debug\For_loop.pdb
