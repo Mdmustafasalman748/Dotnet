@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\bin\Debug\while_loop.exe.config
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\bin\Debug\while_loop.exe
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\bin\Debug\while_loop.pdb
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\obj\Debug\while_loop.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\obj\Debug\while_loop.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\obj\Debug\while_loop.exe
+C:\Personal learning\SQL\Dotnet\while_loop\while_loop\obj\Debug\while_loop.pdb
