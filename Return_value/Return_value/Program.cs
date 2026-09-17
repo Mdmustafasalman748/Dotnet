@@ -25,6 +25,10 @@ namespace Return_value
             int res=a.Display();
             Console.WriteLine(res);
             Console.ReadLine(); 
+
+            /*Every program starts from main method
+             * Syntax to declare a property: Access_specifier data_type variable_name
+             */
         }
     }
 }

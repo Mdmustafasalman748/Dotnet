@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\bin\Debug\Open_acount_in_bank.exe.config
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\bin\Debug\Open_acount_in_bank.exe
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\bin\Debug\Open_acount_in_bank.pdb
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\obj\Debug\Open_acount_in_bank.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\obj\Debug\Open_acount_in_bank.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\obj\Debug\Open_acount_in_bank.exe
+C:\Personal learning\SQL\Dotnet\Open_acount_in_bank\Open_acount_in_bank\obj\Debug\Open_acount_in_bank.pdb
