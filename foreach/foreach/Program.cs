@@ -22,10 +22,13 @@ namespace @foreach
                 sum = sum + Marks[i];
             }
             Console.WriteLine(sum);
+            Console.ReadLine();
+
+            int summ = 0;
             foreach (int item in Marks)
             {
-                sum = sum + item;
-                Console.WriteLine(sum);
+                summ = summ + item;
+                Console.WriteLine(summ);
                 Console.ReadLine();
 
             }
