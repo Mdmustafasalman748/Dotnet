@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\bin\Debug\Namespace.exe.config
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\bin\Debug\Namespace.exe
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\bin\Debug\Namespace.pdb
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\obj\Debug\Namespace.exe
+C:\Personal learning\SQL\Dotnet\Namespace\Namespace\obj\Debug\Namespace.pdb
