@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\bin\Debug\Interface2.exe.config
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\bin\Debug\Interface2.exe
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\bin\Debug\Interface2.pdb
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\obj\Debug\Interface2.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\obj\Debug\Interface2.exe
+C:\Personal learning\SQL\Dotnet\Interface2\Interface2\obj\Debug\Interface2.pdb
