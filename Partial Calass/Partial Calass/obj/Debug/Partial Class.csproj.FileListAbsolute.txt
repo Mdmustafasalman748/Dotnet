@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\bin\Debug\Partial Calass.exe.config
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\bin\Debug\Partial Calass.exe
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\bin\Debug\Partial Calass.pdb
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\obj\Debug\Partial Class.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\obj\Debug\Partial Class.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\obj\Debug\Partial Calass.exe
+C:\Personal learning\SQL\Dotnet\Partial Calass\Partial Calass\obj\Debug\Partial Calass.pdb
