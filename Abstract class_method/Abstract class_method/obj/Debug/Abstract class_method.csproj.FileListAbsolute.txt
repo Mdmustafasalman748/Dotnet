@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\bin\Debug\Abstract class_method.exe.config
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\bin\Debug\Abstract class_method.exe
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\bin\Debug\Abstract class_method.pdb
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\obj\Debug\Abstract class_method.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\obj\Debug\Abstract class_method.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\obj\Debug\Abstract class_method.exe
+C:\Personal learning\SQL\Dotnet\Abstract class_method\Abstract class_method\obj\Debug\Abstract class_method.pdb
