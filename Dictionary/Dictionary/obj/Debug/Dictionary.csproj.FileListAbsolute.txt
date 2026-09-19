@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Personal learning\SQL\Dotnet\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
