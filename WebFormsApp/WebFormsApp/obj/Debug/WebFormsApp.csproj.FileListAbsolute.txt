@@ -1,0 +1,14 @@
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\bin\WebFormsApp.dll.config
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\bin\WebFormsApp.dll
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\bin\WebFormsApp.pdb
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.csproj.AssemblyReference.cache
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.dll
+C:\Users\mdmus\source\repos\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.pdb
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\bin\WebFormsApp.dll.config
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\bin\WebFormsApp.dll
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\bin\WebFormsApp.pdb
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.dll
+C:\Personal learning\SQL\Dotnet\WebFormsApp\WebFormsApp\obj\Debug\WebFormsApp.pdb
