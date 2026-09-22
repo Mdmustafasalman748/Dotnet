@@ -13,7 +13,10 @@
             <asp:Label ID="lblName" runat="server" Text="Your name: "></asp:Label>
             <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
             <asp:Button ID="btnGreet" runat="server" Text="Greet" OnClick="btnGreet_Click" />
-            <br /><br />
+            <br />
+            <asp:TextBox ID="txt_firstnumber" runat="server" Text="firstnumber"></asp:TextBox>
+            <asp:TextBox ID="txt_secondnumber" runat="server" Text="secondnumber"></asp:TextBox>
+            <br />
             <asp:Label ID="lblResult" runat="server" Text=""></asp:Label>
             <br /><br />
             <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataKeyNames="Empid" DataSourceID="SqlDataSource1">
@@ -26,6 +29,7 @@
                     <asp:BoundField DataField="Comm" HeaderText="Comm" SortExpression="Comm" />
                 </Columns>
             </asp:GridView>
+            <asp:Button ID="btn_Add" runat="server" Text="ADD" />
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:batchMdfConnectionString %>" SelectCommand="SELECT [Empid], [Empname], [Empgender], [Sal], [Depid], [Comm] FROM [tbl_emp]"></asp:SqlDataSource>
         </div>
     </form>
