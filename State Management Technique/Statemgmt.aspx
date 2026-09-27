@@ -53,6 +53,49 @@
         !-->
     <form id="form1" runat="server">
         <div>
+            <table>
+                <tr>
+                    <td>Price</td>
+                    <td>
+                        <asp:TextBox runat="server" ID="txt_price" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Quantity:</td>
+                    <td>
+                        <asp:TextBox runat="server" ID="txt_quantity" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <asp:Button Text="Submit" runat="server" id="btn_submit"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Percentage</td>
+                    <td>
+                        <asp:TextBox runat="server" ID="txt_percentage" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <asp:Button Text="Percentage" runat="server" ID="btn_percentage" />
+                    </td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td>
+                        <asp:TextBox runat="server" ID="txt_name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <asp:Button Text="Submit" runat="server" ID="btn_name" />
+                    </td>
+                </tr>
+            </table>
         </div>
     </form>
 </body>
