@@ -45,7 +45,7 @@ namespace State_Management_Technique
             //Server.Transfer("https://www.google.com/");
         }
         //Aspx.cs for Query string
-       * public partial class Home:System.Web.UI.Page
+        /* public partial class Home:System.Web.UI.Page
          * {
          * protected void Page_Load(object sender, EventArgs e)
          * {
@@ -54,6 +54,6 @@ namespace State_Management_Technique
          *Response.Write("Welcome"+WelcomeName+"To Home Page");
          *}
          *}
-         
+         */
     }
 }
