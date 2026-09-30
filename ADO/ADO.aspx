@@ -23,6 +23,18 @@ systems through a common set of components.
         -> Data set is the collection of data table.
         -> SqlDataAdapter is responsible for filling the data into data
         set or data table.!-->
+
+    <!--There are 6 constant step to follow in ADO.NET:
+        1. Connection string
+        2. SQL Connection
+        3. Connection open
+        4. SQL Command
+        5. a.ExecuteReader or SqlDataAdapter
+        b.ExecuteNonQuery
+        c.ExecuteScalar
+        6. Connection close
+        !-->
+
     <form id="form1" runat="server">
         <div>
         </div>
