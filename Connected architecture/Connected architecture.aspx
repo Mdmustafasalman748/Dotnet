@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:GridView runat="server" ID="grid_deptdetails" />
+            <asp:GridView runat="server" ID="grid_deptdetails"/>
         </div>
     </form>
 </body>
