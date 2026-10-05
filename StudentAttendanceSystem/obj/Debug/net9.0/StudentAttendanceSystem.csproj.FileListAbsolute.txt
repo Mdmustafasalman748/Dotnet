@@ -18,6 +18,14 @@ C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\Student
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\scopedcss\bundle\StudentAttendanceSystem.styles.css
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\scopedcss\projectbundle\StudentAttendanceSystem.bundle.scp.css
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.build.json
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.development.json
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.dll
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\refint\StudentAttendanceSystem.dll
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.pdb
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.genruntimeconfig.cache
+C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\ref\StudentAttendanceSystem.dll
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\uytbinnb55-b9sayid5wm.gz
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\tarsgbuho9-61n19gt1b8.gz
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\hwrd1pcz3k-xtxxf3hu2r.gz
@@ -82,9 +90,6 @@ C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compres
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\w9s3u864t8-mlv21k5csn.gz
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\fwi52xfh9k-jp6lez1srt.gz
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\compressed\svft6d2ahh-jp6lez1srt.gz
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.build.json
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.development.json
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets\msbuild.StudentAttendanceSystem.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets\msbuild.StudentAttendanceSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets\msbuild.build.StudentAttendanceSystem.props
@@ -92,8 +97,3 @@ C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticw
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StudentAttendanceSystem.props
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.dll
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\refint\StudentAttendanceSystem.dll
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.pdb
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\StudentAttendanceSystem.genruntimeconfig.cache
-C:\Personal learning\SQL\Dotnet\StudentAttendanceSystem\obj\Debug\net9.0\ref\StudentAttendanceSystem.dll
