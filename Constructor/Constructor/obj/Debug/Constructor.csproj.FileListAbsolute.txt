@@ -1,0 +1,7 @@
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Personal learning\SQL\Dotnet\Constructor\Constructor\obj\Debug\Constructor.pdb

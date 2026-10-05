@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="Webpage.Admin.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table>
+                <tr>
+                    <td height="100px" width="100%">
+                        <asp:Image ImageUrl="~/img.png"
+                            runat="server"
+                            Height="100px"
+                            Width="100%" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td height="50px" width="100%">
+                        <asp:Menu ID="Menu1"
+                            runat="server"
+                            Orientation="Horizontal">
+
+                            <Items>
+                                <asp:MenuItem
+                                    NavigateUrl="~/Admin/Home.aspx"
+                                    Text="Home"
+                                    Value="0">
+                                </asp:MenuItem>
+
+                                <asp:MenuItem
+                                    NavigateUrl="~/Admin/AboutUs.aspx"
+                                    Text="AboutUs"
+                                    Value="1">
+                                </asp:MenuItem>
+
+                                <asp:MenuItem
+                                    NavigateUrl="~/Admin/ContactUs.aspx"
+                                    Text="ContactUs"
+                                    Value="2">
+                                </asp:MenuItem>
+                            </Items>
+
+                        </asp:Menu>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td height="100px" width="100%">
+                        <asp:ContentPlaceHolder
+                            ID="ContentPlaceHolder1"
+                            runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td height="50px" width="100%" align="center">
+                        <asp:Label
+                            Text="Copyright@2026"
+                            runat="server">
+                        </asp:Label>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

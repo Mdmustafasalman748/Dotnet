@@ -1,0 +1,2 @@
+C:\Personal learning\SQL\Dotnet\Sealed Class_Method\Sealed Class_Method\obj\Debug\Sealed Class_Method.csproj.AssemblyReference.cache
+C:\Personal learning\SQL\Dotnet\Sealed Class_Method\Sealed Class_Method\obj\Debug\Sealed Class_Method.csproj.CoreCompileInputs.cache
