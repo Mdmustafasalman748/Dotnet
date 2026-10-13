@@ -9,6 +9,14 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+app.MapGet("/test-db", async (ApplicationDbContext db) =>
+{
+    var canConnect = await db.Database.CanConnectAsync();
+
+    return canConnect
+        ? Results.Ok("Database connection successful!")
+        : Results.Problem("Database connection failed.");
+});
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
